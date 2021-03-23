@@ -1,0 +1,4 @@
+<?php
+/**
+ * Open Is Secure
+ */
