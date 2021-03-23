@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       www.openalo.io
+ * @link       www.iamdavidabayomi.me
  * @since      1.0.0
  *
  * @package    Castrex
@@ -18,7 +18,7 @@
  *
  * @package    Castrex
  * @subpackage Castrex/admin
- * @author     openalo <mail@openalo.io>
+ * @author     iamdavidabayomi <iamdavidabayomi@gmail.com>
  */
 class Castrex_Admin {
 
