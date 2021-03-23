@@ -118,12 +118,14 @@ class Castrex_Admin {
 		/** */
 		$prop = array( 
 			'id' => strtolower( $this->plugin_name ), 
-			'title' => '<span class="ab-icon"></span><span class="screen-reader-text">' . __( ucfirst( $this->plugin_name ) ) . '</span>', 
+			'title' =>  '<span class="ab-icon dashicons dashicons-controls-volumeon" style="margin-top: 3px;"></span><span class="ab-label">' . __( ucfirst( $this->plugin_name ), CA_DOMAIN ) . '</span>', 
 			'href' => '', 
 			'meta' => array( 
 				'title' => ucfirst( $this->plugin_name ) . ' Tools'
 			)
 		);
+
+		$wp_admin_bar->add_node( $prop );
 	}
 
 	/**

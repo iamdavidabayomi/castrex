@@ -155,7 +155,7 @@ class Castrex {
 		$plugin_admin = new Castrex_Admin( $this->get_plugin_name(), $this->get_version() );
 
 		$this->loader->add_action( 'admin_menu', $plugin_admin, 'castrex_register_menu' );
-		$this->loader->add_action( 'admin_bar_menu', $plugin_admin, 'castrex_register_wp_admin_bar_menu', 3 );
+		$this->loader->add_action( 'admin_bar_menu', $plugin_admin, 'castrex_register_wp_admin_bar_menu', 99 );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'castrex_register_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'castrex_register_scripts' );
 
