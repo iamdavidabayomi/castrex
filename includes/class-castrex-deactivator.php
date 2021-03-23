@@ -3,7 +3,7 @@
 /**
  * Fired during plugin deactivation
  *
- * @link       www.openalo.io
+ * @link       www.iamdavidabayomi.me
  * @since      1.0.0
  *
  * @package    Castrex
@@ -18,7 +18,7 @@
  * @since      1.0.0
  * @package    Castrex
  * @subpackage Castrex/includes
- * @author     openalo <mail@openalo.io>
+ * @author     iamdavidabayomi <iamdavidabayomi@gmail.com>
  */
 class Castrex_Deactivator {
 

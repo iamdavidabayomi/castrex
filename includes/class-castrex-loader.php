@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       www.openalo.io
+ * @link       www.iamdavidabayomi.me
  * @since      1.0.0
  *
  * @package    Castrex
@@ -19,7 +19,7 @@
  *
  * @package    Castrex
  * @subpackage Castrex/includes
- * @author     openalo <mail@openalo.io>
+ * @author     iamdavidabayomi <iamdavidabayomi@gmail.com>
  */
 class Castrex_Loader {
 

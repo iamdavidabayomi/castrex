@@ -5,7 +5,7 @@
  *
  * This file is used to markup the public-facing aspects of the plugin.
  *
- * @link       www.openalo.io
+ * @link       www.iamdavidabayomi.me
  * @since      1.0.0
  *
  * @package    Castrex
